@@ -1,0 +1,67 @@
+/*!
+ * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+body {
+  background-color: #FFCC00;
+  padding: 0px;
+  margin: 0;
+}
+h1, h2, p, ul, li {
+  font-family: Helvetica, Arial, sans-serif;
+}
+.header{
+	background-color:#0a4f49;
+	float:left;
+	display: inline-block;
+	margin: 0;
+	width: 100%;
+	
+}
+.header ul li{
+  color: #FFF;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+}
+.header ul li a{
+  color: #FFF;
+  text-decoration: none;
+  
+}
+.header-name{
+	float:left;
+}
+.header-menu{
+	float:right;
+}
+.header-img{
+	float:left;
+	height:400px;
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url('../images/header.jpg');
+  text-align: center;
+  color: white;
+	
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+  float:left;
+  width: 100%;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
